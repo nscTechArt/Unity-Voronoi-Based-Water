@@ -4,7 +4,8 @@
 
 A simle stylized water surface based on custom smooth voronoi noises, inspired from Blender's Smooth Voronio F1 node.
 
-<video src="Images/Movie_001.mp4">
+
+
 
 #### TODO
 
